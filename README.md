@@ -32,6 +32,7 @@ Actualmente desarrollo software en entornos académicos y profesionales, aplican
 | [agenda-contactos-springboot](https://github.com/PabloIAIN/agenda-contactos-springboot) | API REST de gestión de contactos con Spring Boot. | Java · Spring Boot |
 | [agenda-contactos-fastapi](https://github.com/PabloIAIN/agenda-contactos-fastapi) | La misma API de contactos implementada en Python para comparar frameworks. | Python · FastAPI · SQLAlchemy |
 | [sistemas-de-contactos-react-y-node.js](https://github.com/PabloIAIN/sistemas-de-contactos-react-y-node.js) | Versión full-stack JavaScript del sistema de contactos. | React · Node.js |
+| [TaskFlow](https://github.com/PabloIAIN/taskflow) | Sistema de gestión de tareas con autenticación JWT, roles, Kanban board y Swagger. Full-stack. | Spring Boot · React · PostgreSQL · Docker |
 | [GMU Doulos](https://github.com/PabloIAIN/gmu_doulos) | App móvil de gestión para Club de Guías Mayores. En producción. | Flutter · Dart · Vercel |
 
 ## GitHub Stats
